@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 f __name__ == "__main__":
     from calculator_1 import add, sub, mul, div
 
